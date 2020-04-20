@@ -3,7 +3,7 @@ import '../App.css';
 
 function Tab() {
   return (
-    <div className="Tabs">
+    <div className="tabs">
       <p>全部</p>
       <p>精华</p>
       <p>分享</p>
